@@ -2,8 +2,9 @@
 Materiały z wykładów ze Statystycznej analizy danych:
 - prezentacja (StatPrez.pdf)
 - skrypty R (lectures.R i lectures2.R)
-- dodatkowe dane niezbędne do wykonania kodu z uczenia maszynowego (dane.zip)
-
+- dodatkowe dane niezbędne do wykonania kodu z uczenia maszynowego (folder "dane")
+//
+//
 
 
 > sessionInfo()
