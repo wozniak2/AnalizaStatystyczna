@@ -1,0 +1,15 @@
+ID,RGB,Klasa
+0,#FFFFFF,Chmury
+62,#D20000,Zabudowa
+73,#FDD327,Obszary uprawne
+75,#B05B10,Winnice
+82,#239800,Lasy liściaste
+83,#086209,Lasy iglaste
+102,#F99627,Roślinność trawiasta
+103,#8D8B00,Wrzosowiska
+104,#5F3506,Roślinność twardolistna
+105,#956BC4,Bagna
+106,#4D256A,Torfowiska
+121,#9A9A9A,Powierzchnie z naturalnych materiałów
+123,#6AFFFF,Powierzchnie stale pokryte śniegiem
+162,#1445F9,Zbiorniki wodne
