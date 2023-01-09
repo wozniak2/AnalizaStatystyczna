@@ -1,4 +1,10 @@
 # AnalizaStatystyczna
+Materiały z wykładów ze Statystycznej analizy danych:
+- prezentacja .pdf
+- skrypty R (lectures i lectures2)
+- dodatkowe dane niezbędne do wyknania kodu z uczenia maszynowego
+
+
 
 > sessionInfo()
 R version 4.2.2 (2022-10-31 ucrt)
