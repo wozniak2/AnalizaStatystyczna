@@ -1,6 +1,6 @@
 # Analiza statystyczna danych
 Materiały z wykładów ze Statystycznej analizy danych:
-- prezentacja (StatPrez.pdf)
+- prezentacja (StatLec_compressed.pdf)
 - skrypty R (lectures.R i lectures2.R)
 - dodatkowe dane niezbędne do wykonania fragmentów kodu z uczenia maszynowego (folder "dane")
 <br>
