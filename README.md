@@ -1,6 +1,6 @@
 # Analiza statystyczna danych
 Repozytorium zawiera materiały z wykładów ze Statystycznej analizy danych:
-- prezentacja (plik StatLec_compressed.pdf)
+- prezentacja (plik StatLec1Z_2024.pdf)
 - skrypty R (pliki lectures_partI.R i lectures_partII.R)
 - dodatkowe dane niezbędne do wykonania fragmentów kodu z uczenia maszynowego (folder "dane")
 <br>
